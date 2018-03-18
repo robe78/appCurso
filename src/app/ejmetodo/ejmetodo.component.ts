@@ -14,7 +14,7 @@ export class EjmetodoComponent implements OnInit {
   ngOnInit() {
   }
 
-  getPuntuacion (){
+  getPuntuacion () {
     return this.puntuacion;
   }
 }
